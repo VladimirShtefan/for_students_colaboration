@@ -9,3 +9,7 @@ class Dog:
         for num in nums:
             result += num
         return result
+
+    def print_hello():
+        print("Hello world")
+

@@ -1,1 +1,7 @@
-hello world
+
+print "hello world"
+
+def foo():
+    pass
+
+

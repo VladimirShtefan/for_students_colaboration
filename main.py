@@ -10,6 +10,6 @@ class Dog:
             result += num
         return result
 
-    def print_hello():
+    def print_hello(self):
         print("Hello world")
 

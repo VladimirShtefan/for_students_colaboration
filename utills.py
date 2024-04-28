@@ -6,3 +6,4 @@ def summ_(a: int, b: int) -> int:
     :return: int
     """
     return a + b
+

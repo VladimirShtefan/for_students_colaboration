@@ -10,6 +10,7 @@ class Dog:
             result += num
         return result
 
-    def print_hello(self):
+    @staticmethod
+    def print_hello():
         print("Hello world")
 
